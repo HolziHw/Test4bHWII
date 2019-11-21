@@ -591,7 +591,7 @@ namespace BinaryTreeApp.models
             return false;
         }
     }*/
-            public int Count2
+        public int Count2
         {
             get
             {
