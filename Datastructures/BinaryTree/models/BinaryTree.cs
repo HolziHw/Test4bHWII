@@ -30,6 +30,7 @@ namespace BinaryTreeApp.models
 
             get
             {
+                //Kommentar Luggi
                 //Komment Holzi
                 return _count;
             }
