@@ -15,12 +15,4 @@ namespace BinaryTree.models
             i = i + i;
         }
     }
-
-    void nichts()
-    {
-        for(int i = 0; i < 10; i++)
-        {
-            i = i + i;
-        }
-    }
 }
