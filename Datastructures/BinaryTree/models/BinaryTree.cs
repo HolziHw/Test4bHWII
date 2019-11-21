@@ -6,8 +6,6 @@ namespace BinaryTreeApp.models
 {
     class BinaryTree
     {
-        private int keineZahl;
-        private double auchKeineZahl;
         private BinaryTreeItem _root;
         private int _count;
 
@@ -596,19 +594,4 @@ namespace BinaryTreeApp.models
             return false;
         }
     }*/
-        public int Count2
-        {
-            get
-            {
-                return _count;
-            }
-        }
-    }
-    public int Count22
-        {
-            get
-            {
-                return _count;
-            }
-        }
 }
