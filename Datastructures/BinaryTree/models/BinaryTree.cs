@@ -27,8 +27,10 @@ namespace BinaryTreeApp.models
         //Methoden
         public int Count
         {
+
             get
             {
+                //Komment Holzi
                 return _count;
             }
         }
