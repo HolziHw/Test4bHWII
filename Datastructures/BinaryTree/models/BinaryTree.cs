@@ -7,7 +7,7 @@ namespace BinaryTreeApp.models
     class BinaryTree
     {
         private int keineZahl;
-        private double auchKeineZahl
+        private double auchKeineZahl;
         private BinaryTreeItem _root;
         private int _count;
 
