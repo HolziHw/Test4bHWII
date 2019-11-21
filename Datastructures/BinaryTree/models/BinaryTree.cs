@@ -592,4 +592,11 @@ namespace BinaryTreeApp.models
         }
     }*/
     }
+    public int Count22
+        {
+            get
+            {
+                return _count;
+            }
+        }
 }
