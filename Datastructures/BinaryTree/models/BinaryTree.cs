@@ -29,6 +29,7 @@ namespace BinaryTreeApp.models
         {
             get
             {
+                //Kommentar Luggi
                 return _count;
             }
         }
